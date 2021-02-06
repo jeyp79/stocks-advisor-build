@@ -7,7 +7,7 @@ Installation:
   -	In PowerShell terminal open MongoDB standard folder (cd “C:\Program Files\MongoDB\Server\4.4\bin”)
   -	Run mongod.exe file (.\mongod) and leave it running
   -	Run mongo.exe file from the same folder (.\mongo)
-  -	Use the code from “MongoDB_script.txt” to create a new database (stocks-screener) and collection (stocks)
+  -	Create a new database ("use stocks-screener")
 4. Navigate to project “backend” folder and run the following commands:
   -	npm install
   -	npm start
