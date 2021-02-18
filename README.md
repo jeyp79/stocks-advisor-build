@@ -8,9 +8,7 @@ Installation:
   -	Run mongod.exe file (.\mongod) and leave it running
   -	Run mongo.exe file from the same folder (.\mongo)
   -	Create a new database ("use stocks-screener")
-4. Navigate to project “backend” folder and run the following commands:
+4. Go back to “src” folder and run the following commands:
   -	npm install
   -	npm start
-5. Go back to “src” folder and run the following commands:
-  -	npm install
-  -	npm start
+5. http://localhost:8000/
